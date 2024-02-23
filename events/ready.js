@@ -18,3 +18,7 @@ client.on("ready", async () => {
     await client.updateembed(client, guild);
   });
 });
+
+
+
+
